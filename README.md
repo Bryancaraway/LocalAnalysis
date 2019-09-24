@@ -1,14 +1,20 @@
 To excecute this code:
 
-''''bash makedirs.sh''''
+'''
+bash makedirs.sh
+'''
 
 edit getstuff.sh to your directory or place plots in latest_plots/
 
-''''bash getstuff.sh''''
+'''
+bash getstuff.sh
+'''
 
 edit ppt_macro.py to your slide specifications
 
-''''python ppt_macro.py''''
+'''
+python ppt_macro.py
 
-''''open slides/test.pptx''''
+open slides/test.pptx
+'''
 
